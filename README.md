@@ -1,10 +1,13 @@
 # How to Run
 
-First, you need to run the following:
+first you need to download the checkpoint at 
+https://drive.google.com/file/d/17pjd2Ur4TtFqv50ipmOhvM_C3Vo4_dZu/view?usp=sharing
+
+and then put that checkpoint folder ```checkpoint```
 
 ```sh
 git clone https://github.com/cssi87m/AssignmentSemanticSegmentation.git
-cd AssignmentSemanticSegmentation
+cd AssigmentDL
 python infer.py --image_path {path_to_image}
 or
 python3 infer.py --image_path {path_to_image}
