@@ -1,7 +1,7 @@
 # How to Run
 
 first you need to download the checkpoint at 
-https://drive.google.com/file/d/17pjd2Ur4TtFqv50ipmOhvM_C3Vo4_dZu/view?usp=sharing
+https://drive.google.com/drive/folders/10mG52BJmC5fr7xMh9hBeHerVe8f2k9Nx?usp=drive_link
 
 and then put that checkpoint folder ```checkpoint```
 
